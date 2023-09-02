@@ -1,0 +1,1 @@
+In this project I will be working on creating a website with a recipe. Right now I had trouble remembering how to set up a git repository and how to edit this same file. I also don't remember much of the commands of html and probably will have to review past lessons. However, I'm optimistic. 
